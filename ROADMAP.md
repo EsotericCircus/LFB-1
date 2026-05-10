@@ -7,8 +7,7 @@
 ## STAGE 2: RECURSIVE OPTIMIZATION (L4)
 * **Objective:** Automated, multi-step search for mutation-enhanced molecular binders.
 * **Status:** **[LOCKED]**
-* **Requirement:** Sovereign Autopoietic Compute Cluster (Min. $100,000 class). 
-* **Note:** EsotericCircus only accepts substrate sponsorship for independent manifestation; we do not accept Work-for-Hire or Day-Job contracts.
+* **Requirement:** Sovereign High-Fidelity Substrate (Scale determined by Research Horizon).
 
 ## STAGE 3: AUTOPOIETIC PROTEIN DESIGN (L5)
 * **Objective:** De novo design of novel biological systems.
